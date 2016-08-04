@@ -9,3 +9,9 @@ For Leetcode and other algorithm problems
 4. `./two_dimension_binary_search.c`: Binary search in two dimension sorted array
 5. `./6_zigzag.c`: ZigZag Conversion  
 6. `./7_reverse_integer.c`: Reverse Integers
+7. `./string2int.c`: String to Integer
+
+## Usage:
+
+    gcc -c <file-name>.c -o a.out
+    ./a.out
