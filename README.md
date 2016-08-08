@@ -11,7 +11,8 @@ For Leetcode and other algorithm problems
 6. `./7_reverse_integer.c`: Reverse Integers
 7. `./string2int.c`: String to Integer
 8. `./search_number_appeared_more_than_half.c`: 找出数组中出现次数超过一半的数
-9. `152_maximum_product_subarray.c`: Maximum Product Subarray
+9. `./152_maximum_product_subarray.c`: Maximum Product Subarray
+10. `./9_palindrome_number.c`: 回文数, O(1)空间复杂度
 ## Usage:
 
     gcc -c <file-name>.c -o a.out
