@@ -13,6 +13,8 @@ For Leetcode and other algorithm problems
 8. `./search_number_appeared_more_than_half.c`: 找出数组中出现次数超过一半的数
 9. `./152_maximum_product_subarray.c`: Maximum Product Subarray
 10. `./9_palindrome_number.c`: 回文数, O(1)空间复杂度
+14. `./14_longest_common_prefix.c`: Longest common prefix
+
 ## Usage:
 
     gcc -c <file-name>.c -o a.out
