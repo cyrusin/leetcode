@@ -17,5 +17,5 @@ For Leetcode and other algorithm problems
 15. `./19_Remove_Nth_Node_From_End_of_List.c`: Remove Nth Node From End of List
 ## Usage:
 
-    gcc -c <file-name>.c -o a.out
-    ./a.out
+> gcc -c <file-name>.c -o a.out
+> ./a.out
