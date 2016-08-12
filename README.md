@@ -16,6 +16,7 @@ For Leetcode and other algorithm problems
 14. `./14_longest_common_prefix.c`: Longest common prefix
 15. `./19_Remove_Nth_Node_From_End_of_List.c`: Remove Nth Node From End of List
 20. `./20. Valid Parentheses`: Valid Parentheses
+21 `./21_Merge_Two_Sorted_Lists.c`: Merge two sorted lists
 
 ## Usage:
 
