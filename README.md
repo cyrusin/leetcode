@@ -15,7 +15,9 @@ For Leetcode and other algorithm problems
 10. `./9_palindrome_number.c`: 回文数, O(1)空间复杂度
 14. `./14_longest_common_prefix.c`: Longest common prefix
 15. `./19_Remove_Nth_Node_From_End_of_List.c`: Remove Nth Node From End of List
+20. `./20. Valid Parentheses`: Valid Parentheses
+
 ## Usage:
 
-> gcc -c <file-name>.c -o a.out
-> ./a.out
+1. Compile: gcc -c <file-name>.c -o a.out
+2. Run: ./a.out
