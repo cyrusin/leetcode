@@ -17,7 +17,8 @@ For Leetcode and other algorithm problems
 15. `./19_Remove_Nth_Node_From_End_of_List.c`: Remove Nth Node From End of List
 20. `./20. Valid Parentheses`: Valid Parentheses
 21. `./21_Merge_Two_Sorted_Lists.c`: Merge two sorted lists
-22. `./26_Remove_Duplicates_from_Sorted_Array.c`: Remove Duplicates from Sorted Array 
+22. `./24_Swap_Nodes_in_Pairs.c`: Swap nodes in pairs
+23. `./26_Remove_Duplicates_from_Sorted_Array.c`: Remove Duplicates from Sorted Array 
 
 ## Usage:
 
