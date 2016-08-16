@@ -13,12 +13,12 @@ For Leetcode and other algorithm problems
 8. `./search_number_appeared_more_than_half.c`: 找出数组中出现次数超过一半的数
 9. `./152_maximum_product_subarray.c`: Maximum Product Subarray
 10. `./9_palindrome_number.c`: 回文数, O(1)空间复杂度
-14. `./14_longest_common_prefix.c`: Longest common prefix
-15. `./19_Remove_Nth_Node_From_End_of_List.c`: Remove Nth Node From End of List
-20. `./20. Valid Parentheses`: Valid Parentheses
-21. `./21_Merge_Two_Sorted_Lists.c`: Merge two sorted lists
-22. `./24_Swap_Nodes_in_Pairs.c`: Swap nodes in pairs
-23. `./26_Remove_Duplicates_from_Sorted_Array.c`: Remove Duplicates from Sorted Array 
+11. `./14_longest_common_prefix.c`: Longest common prefix
+12. `./19_Remove_Nth_Node_From_End_of_List.c`: Remove Nth Node From End of List
+13. `./20. Valid Parentheses`: Valid Parentheses
+14. `./21_Merge_Two_Sorted_Lists.c`: Merge two sorted lists
+15. `./24_Swap_Nodes_in_Pairs.c`: Swap nodes in pairs
+16. `./26_Remove_Duplicates_from_Sorted_Array.c`: Remove Duplicates from Sorted Array 
 
 ## Usage:
 
