@@ -19,8 +19,9 @@ For Leetcode and other algorithm problems
 14. `./21_Merge_Two_Sorted_Lists.c`: Merge two sorted lists
 15. `./24_Swap_Nodes_in_Pairs.c`: Swap nodes in pairs
 16. `./26_Remove_Duplicates_from_Sorted_Array.c`: Remove Duplicates from Sorted Array 
+17. `./27_Remove_Element.c`: Remove Element
 
 ## Usage:
 
-1. Compile: gcc -c <file-name>.c -o a.out
-2. Run: ./a.out
+1. Compile: `gcc -c <file-name>.c -o a.out`
+2. Run: `./a.out`
