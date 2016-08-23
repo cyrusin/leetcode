@@ -22,6 +22,7 @@ For Leetcode and other algorithm problems
 17. `./27_Remove_Element.c`: Remove Element
 18. `./38_Count_and_Say.c`: 38. Count and Say
 19. `./58_Length_of_Last_Word.c`: 58. Length of Last Word
+20. `./66_Plus_One.c`: 66. Plus one
 
 ## Usage:
 
