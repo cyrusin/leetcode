@@ -24,6 +24,7 @@ For Leetcode and other algorithm problems
 19. `./58_Length_of_Last_Word.c`: 58. Length of Last Word
 20. `./66_Plus_One.c`: 66. Plus one
 21. `./67_Add_Binary.c`: 67. Add Binary
+22. `./70_Climbing_Stairs.c`: 70. Climbing Stairs
 
 ## Usage:
 
