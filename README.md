@@ -25,6 +25,7 @@ For Leetcode and other algorithm problems
 20. `./66_Plus_One.c`: 66. Plus one
 21. `./67_Add_Binary.c`: 67. Add Binary
 22. `./70_Climbing_Stairs.c`: 70. Climbing Stairs
+23. `./83_Remove_Duplicates_from_Sorted_List.c`: 83. Remove Duplicates from Sorted List
 
 ## Usage:
 
